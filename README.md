@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m Rahim <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning
+  <!-- Header Design -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:245edb&height=220&section=header&text=Rahim&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35/>
 
 
 # 💻 Tech Stack:
