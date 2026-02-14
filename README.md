@@ -1,5 +1,5 @@
   <!-- Header Design -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:245edb&height=220&section=header&text=Rahim&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:245edb&height=220&section=header&text=Rahim&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Creator%20|%20Retro%20Enthusiast&descAlignY=55&descSize=25" />
 
 
 # 💻 Tech Stack:
